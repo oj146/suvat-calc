@@ -117,8 +117,6 @@ class Suvat:
             myDict["t"] = self.t
         return myDict
 
-suvat = Suvat('?',0,17,3.4,'?')
-print(suvat.all())
 
 
 
